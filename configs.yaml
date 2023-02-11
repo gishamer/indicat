@@ -1,0 +1,4 @@
+icsi_path: data/ICSI_original_transcripts/transcripts
+isl_path: data/ISL
+annotations_path: data/indicat.csv
+target_path: indicat_corpus.csv
