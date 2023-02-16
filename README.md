@@ -14,7 +14,7 @@ This repository contains the indicative action item annotations and scripts to m
 data
 ├── ICSI_original_transcripts
 ├── ISL
-└── hand_labeled.csv
+└── indicat.csv
 ```
 
 4. Install dependencies with `pip install -r requirements.txt`
